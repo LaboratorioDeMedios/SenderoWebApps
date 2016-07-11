@@ -13,7 +13,7 @@ We deliver the applications through an Express.js server.
 Usage
 -----
 
- - Go to `public/conf/serverConf.xml` and configure your artwork in the same way it is configured in [Sendero Server](https://github.com/Sendero-Project/SenderoServer) in your instance. 
+ - Go to `public/conf/serverConf.xml` and configure your artwork in the same way it is configured in [Sendero Server](https://github.com/LaboratorioDeMedios/SenderoServer) in your instance. 
 
   Here is a fragment that indicates the structure it must follow:
 
@@ -43,7 +43,7 @@ Usage
  - Run the Express.js server with `node app.js`.
 
 
-New interactions messaged emision to [Sendero Interaction Server](https://github.com/Sendero-Project/SenderoInteractionServer) can be developed in `public/js/interactions.js` file. Inside that file is an example of how to do so using a `mousemove` and `touchmove` JavaScript event.
+New interactions messaged emision to [Sendero Interaction Server](https://github.com/LaboratorioDeMedios/SenderoInteractionServer) can be developed in `public/js/interactions.js` file. Inside that file is an example of how to do so using a `mousemove` and `touchmove` JavaScript event.
 
 --------
-For more information about Sendero Project go to the [base repository](https://github.com/Sendero-Project/Sendero).
+For more information about Sendero Project go to the [base repository](https://github.com/LaboratorioDeMedios/SenderoProject).
